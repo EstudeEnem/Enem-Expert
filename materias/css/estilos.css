@@ -1,0 +1,11 @@
+.cabecalho{
+  height: 100px;
+  width: 100%;
+  background-color:#5F9EA0 ;
+}
+
+.cabecalho h1{
+  color: white;
+  font-family: cursive;
+  text-align: center;
+}
